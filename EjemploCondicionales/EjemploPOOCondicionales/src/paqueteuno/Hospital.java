@@ -36,7 +36,7 @@ public class Hospital {
         // para este tipo de hospitales la ciudad por defecto será Quito
         ciudadHospital = "Quito";
         // presupuesto anual será de 250 mil dolares con 10 centavos
-        presupuestoAnual = 250000.10;
+        presupuestoAnual = 250000.10; 
     }
     
     // Objetos para opción 3
