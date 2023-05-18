@@ -1,0 +1,7 @@
+Datos de Vendedor
+Nombre: Denis
+Edad: 19
+Salario mínimo: 15000,00
+Número de autos: 60
+Pago mensual: 24000,00
+
